@@ -1,0 +1,8 @@
+    Copy By Value                           VS            CopyByReference
+1. In this the actual parameter's                   1. In this the address of actual parameter is copied
+   value is copied in another variable.                 in another variable.
+2. If we change the actual parameter value          2. If we change the actual parameter value  
+    the variable in which value was copied will          the variable in which value was copied will
+    will not change.                                      will not change.
+3. Two different variable having same value.        3. Two different variable pointing to same address.
+   
